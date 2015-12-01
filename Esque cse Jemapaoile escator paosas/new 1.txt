@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+
+<head?
+	<title> I see u </title>
+<head>
+
+<body>
+
+<h1> Chocococaos</h1>
+
+<a href="http://www.w3schools.com/html/tryit.asp?filename=tryhtml_default">
+<img src="BB.jpg" alt="lol it's okay to be blind"/>
+</a>
+
