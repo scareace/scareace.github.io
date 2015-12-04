@@ -2,3 +2,23 @@
 p{
 	color:red;
 }
+
+
+body{
+	font-size=2em;
+	body: green;
+	background-color: #61A3D5;
+}
+
+h1 {
+	color: #000000;
+	text-align: center;
+	border-style: dashed;
+	border-width: 4px;
+	margin-left: 140px;
+	margin-right: 140px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #EDC7E3
+	
+}
