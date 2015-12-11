@@ -43,3 +43,37 @@ h1 {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #f1f1f1;
+	width: 130px;
+	position: fixed;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+
+}
+
+nav ul li a{
+	display: block;
+	text-decoration: none;
+	color: #000;
+	padding-left: 30px;
+	padding-top: 5px;
+	padding-bottom: 2px;
+	border-width: 1px;
+	border-style: solid;
+}
+
+nav ul li a:hover {
+	background-color: #555;
+	color: #fff;
+}
+
+.active{
+	background-color: 44CAF50;
+	color: #fff;
+}
