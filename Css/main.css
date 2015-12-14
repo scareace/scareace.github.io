@@ -5,9 +5,10 @@ p{
 
 
 body{
-	font-size=2em;
-	body: green;
+	font-size: 2em;
+	color: green;
 	background-color: #61A3D5;
+	
 }
 
 h1 {
@@ -76,6 +77,8 @@ nav ul li a:hover {
 
 img {
 	padding-bottom: 50px;
+	max-width: 100%;
+	height: auto;
 }
 
 @media screen and (max-width: 600px) {
@@ -88,4 +91,6 @@ img {
 	margin-right: 0;
 	padding-left: 2%;
 	}
+	
+
 }
