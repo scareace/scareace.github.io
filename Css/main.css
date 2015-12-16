@@ -5,23 +5,21 @@ p{
 
 
 body{
-	font-size: 2em;
-	color: green;
-	background-color: #61A3D5;
-	
+	font-size: 1.5em;
+	color: #0F1DE2;
+	background: white url(../Img/sakura.jpg);
 }
 
 h1 {
-	color: #000000;
+	color: rgb(167, 35, 35);
 	text-align: center;
-	border-style: solid;
 	border-width: 4px;
 	border-radius: 180px;
-	margin-left: 10%;
-	margin-right: 10%;
-	padding-top: 5%;
-	padding-bottom: 5%;
-	background-color: #EDC7E3
+	margin-left: 23%; 
+	margin-right: 23%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	background-color: #f1f1f1
 }
 
 
@@ -33,7 +31,7 @@ h1 {
 
 
 #titleScreen{
-	font-size: 2em;
+	font-size: 70%;
 }
 .centerMe {
 	display: block;
@@ -48,9 +46,7 @@ nav ul{
 	background-color: #f1f1f1;
 	width: 130px;
 	position: fixed;
-	height: 20%;
 	top: 0;
-	bottom: 0;
 
 }
 
@@ -78,8 +74,9 @@ nav ul li a:hover {
 
 img {
 	padding-bottom: 50px;
-	max-width: 100%;
+	max-width: 90%;
 	height: auto;
+	
 }
 
 @media screen and (max-width: 600px) {
