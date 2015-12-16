@@ -63,6 +63,7 @@ nav ul li a{
 	padding-bottom: 2px;
 	border-width: 1px;
 	border-style: solid;
+	transition: 1s;
 }
 
 nav ul li a:hover {
@@ -71,7 +72,7 @@ nav ul li a:hover {
 }
 
 .active{
-	background-color: 44CAF50;
+	background-color: #4CAF50;
 	color: #fff;
 }
 
