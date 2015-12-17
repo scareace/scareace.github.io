@@ -47,7 +47,10 @@ nav ul{
 	width: 130px;
 	position: fixed;
 	top: 0;
-
+	font-style: italic;
+	font-variant: small-caps;	
+	font-size: small;
+	
 }
 
 nav ul li a{
